@@ -1,7 +1,7 @@
 {
-  "name": "react-firebase-file-uploader",
+  "name": "react-firebase-file-uploader-2",
   "version": "2.4.4",
-  "description": "A file uploader for react that uploads files to your firebase storage",
+  "description": "A file uploader for react that uploads files to your firebase storage. Forked from https://www.npmjs.com/package/react-firebase-file-uploader",
   "main": "lib/index.js",
   "scripts": {
     "build": "./node_modules/.bin/babel src --out-dir lib",
