@@ -1,6 +1,6 @@
 # react-firebase-file-uploader
 
-A file uploader for react that uploads images, videos and other files to your firebase storage.
+A file uploader for react that uploads images, videos and other files to your firebase storage. This is a fork of https://www.npmjs.com/package/react-firebase-file-uploader.
 
 ## Props
 
